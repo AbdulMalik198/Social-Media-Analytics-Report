@@ -44,16 +44,6 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 ---
 
-##  A/B Testing Framework (for Facebook Ads)
-
-1. Set a clear objective (e.g., engagement or conversion)
-2. Create identical ad sets (same audience & timing)
-3. Change **one** variable (image, headline, or CTA)
-4. Track CTR, CPE, and conversion metrics
-5. Optimize based on test results
-
----
-
 ##  Tools Used
 
 | Tool           | Purpose                          |
