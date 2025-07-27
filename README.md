@@ -1,14 +1,14 @@
-# 📊 Social Media Analytics Dashboard (Power BI)
+#  Social Media Analytics Dashboard (Power BI)
 
 This project presents a Power BI dashboard that analyzes and compares the performance of **Facebook** and **Instagram** content. The dashboard was designed for social media analysts, marketers, and stakeholders who need to evaluate content performance, identify engagement trends, and optimize future strategies.
 
-## 🔍 Project Overview
+##  Project Overview
 
 This interactive dashboard was developed using Power BI Desktop and incorporates data modeling, DAX-based KPIs, and clean, executive-ready visuals.
 
 📄 View the full PDF report: [Social_Media_Analytics_Report.pdf](./Social_Media_Analytics_Report.pdf)
 
-## 💼 Skills Used
+##  Skills Used
 
 - **Power BI Desktop**: Interactive report creation  
 - **Power Query**: Data cleaning and monthly transformation  
@@ -17,16 +17,16 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 ---
 
-## 📌 Key Metrics Tracked
+##  Key Metrics Tracked
 
-### 🔵 Facebook Metrics
+###  Facebook Metrics
 - Average Daily Impressions: **3.11K**
 - Net New Followers: **2,028**
 - Total Reactions: **2M**
 - Follower Growth Rate: **17.2%**
 - Organic vs Paid Reach: **Budget efficiency**
 
-### 🟣 Instagram Metrics
+###  Instagram Metrics
 - Total Followers: **194**
 - Total Engagements: **8,353**
 - Engagement Rate: **0.10%**
@@ -35,7 +35,7 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 ---
 
-## 💡 Insights & Recommendations
+##  Insights & Recommendations
 
 - Facebook had peak impressions in **Sept–Oct**, ideal for future campaigns.
 - Instagram's **high reach** but **low engagement** suggests a need for improved CTAs or content types.
@@ -44,7 +44,7 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 ---
 
-## 🧪 A/B Testing Framework (for Facebook Ads)
+##  A/B Testing Framework (for Facebook Ads)
 
 1. Set a clear objective (e.g., engagement or conversion)
 2. Create identical ad sets (same audience & timing)
@@ -54,7 +54,7 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 ---
 
-## 📈 Tools Used
+##  Tools Used
 
 | Tool           | Purpose                          |
 |----------------|----------------------------------|
@@ -65,10 +65,8 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
-*(Optional: Add image)*  
-You can upload a screenshot named `dashboard-preview.png` in a folder called `images` and reference it here:
 
 ```md
 ![Dashboard Preview](./images/dashboard-preview.png)
