@@ -57,6 +57,5 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 ##  Dashboard Preview
 
-
+https://github.com/AbdulMalik198/Social-Media-Analytics-Report/blob/main/Instagram%20Analytics.png
 ```md
-![Dashboard Preview](./images/dashboard-preview.png)
