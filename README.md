@@ -8,7 +8,7 @@ This interactive dashboard was developed using Power BI Desktop and incorporates
 
 📄 View the full PDF report: [Social_Media_Analytics_Report.pdf](./Social_Media_Analytics_Report.pdf)
 
-##  Skills Used
+##  Tools Used
 
 - **Power BI Desktop**: Interactive report creation  
 - **Power Query**: Data cleaning and monthly transformation  
